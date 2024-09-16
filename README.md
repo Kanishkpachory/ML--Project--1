@@ -1,7 +1,3 @@
-# House Rate Prediction in Bangalore City
-
-This project is a machine learning model that predicts house prices for properties located in Bangalore, India. The goal is to provide a data-driven approach to estimate property prices using various features such as property size, number of bedrooms, location, and amenities. This project is suitable for those interested in data science, real estate analytics, or general machine learning applications.
-
 ## Table of Contents
 1. [Overview](#overview)
 2. [Dataset](#dataset)
